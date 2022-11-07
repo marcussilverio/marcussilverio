@@ -8,10 +8,10 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/marcussilverio.https://github.com/marcussilverio)
 
 </p>
-<div size='20px'> Hi! My name is Marcus SIlverio. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Marcus SIlverio. Thank You for taking the time to view my GitHub Profile 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me></h2>
 
 - 🌱 I’m currently learning Web devlopment, Java,  Typescript and Python. 
 
