@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Marcus SIlverio. Thank You for taking the time to view my GitHub Profile 
 </div>
 
-<h2> About Me></h2>
+<h2> About Me</h2>
 
 - 🌱 I’m currently learning Web devlopment, Java,  Typescript and Python. 
 
