@@ -37,13 +37,13 @@
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/marcussilverio/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 &ensp; 
-<!-- <a href = 'https://marcussilverio.github.io/Portifolio/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  -->
 <a href = 'https://github.com/marcussilverio'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
 <h2> My GitHub Stats</h2>
+<img alt="My status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marcussilverio&theme=github_dark&show_icons=true"/>
+<img alt="My status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcussilverio&layout=compact&theme=github_dark&show_icons=true"/>
 
-![Metrics](https://metrics.lecoq.io/MarcusSIlverio?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you </h2>
 
